@@ -1,0 +1,13 @@
+Create table 
+
+CREATE TABLE Priest (
+    age int,
+    name varchar(255),
+    education varchar(255),
+    experience int,
+    place varchar(255)
+);
+
+INSERT INTO Priest (id,age, name, education, experience, place) VALUES (100,40,'vasudev','BA',5,'India');
+INSERT INTO Priest (id,age, name, education, experience, place) VALUES (104,50,'guru','BA',6,'India');
+INSERT INTO Priest (id,age, name, education, experience, place) VALUES (107,20,'vasu','12th',2,'India');
